@@ -12,7 +12,7 @@ const ActiveLink = ({ text, href }) => {
 
     const router = useRouter();
 
-    console.log(router);
+    // console.log(router);
     return (
 
         <Link href={href}>
